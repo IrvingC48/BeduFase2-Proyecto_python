@@ -54,8 +54,8 @@ La reorganización de los datos, donde ahora tendremos una columna para las esta
 
 Dicha reestructura y aplicación de la metodología, se segmentó por tipo de PM.
 
-- [Tranformación de datos PM10](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/6.1_Transformacion_PM10.ipynb)
-- [Tranformación de datos PM2.5](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/6.2_Transformacion_PM2.5.ipynb)
+- [Transformación de datos PM10](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/6.1_Transformacion_PM10.ipynb)
+- [Transformación de datos PM2.5](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/6.2_Transformacion_PM2.5.ipynb)
 
 
 [PM10]: https://latex.codecogs.com/gif.latex?\bg_white&space;PM_{10}
