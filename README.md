@@ -29,7 +29,7 @@ En este repositorio se presentan todo los procedimientos aplicados desde la iden
 1. [Colección de datos](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/3_Coleccion_de_datos.md)
 1. [Análisis exploratorio de datos](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/4_Analisis_Exploratorio_Datos.ipynb)
 1. [Limpieza de datos](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/5_Limpieza_de_datos_y_agregaciones.ipynb)
-1. [Transformación de datos](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/6_Transformacion_de_datos)
+1. [Transformación de datos](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/6_Transformacion_de_datos.md)
 1. [Uso de APIs (Opcional)](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/7_Uso_APIs.ipynb)
 1. [Trabajo Futuro](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/8_Trabajo_Futuro.md)
 1. [Referencias](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/9_Referencias.md)
