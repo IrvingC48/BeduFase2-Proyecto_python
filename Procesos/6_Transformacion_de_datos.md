@@ -27,10 +27,6 @@ Para el cálculo del promedio diario de ![PM10] y ![PM2.5] se utilizó la metodo
 
 Para este caso, se seguirá el mismo principio, pero tomando todos los datos horarios de las estaciones de cada zona para tener un promedio diario por zona de cada contaminante. Los datos deben ser redondeados a 0 dígitos para el ![PM10] y a un dígito para el ![PM2.5].
 
-### Contribución de partículas
-
-La proporción ![PM2.5] / ![PM10] ha sido utilizada para determinar la fuentes de la contaminación del aire.  
-Un valor de ![PM2.5] / ![PM10] indica una mayor contribución de las fuentes artificiales _(Seo, et al. 2020)_.
 
 ### Índice de calidad del aire
 El método para calcular el índice de calidad (`IQA`) del aire fue desarrollado por la **Agencia de Protección Ambiental** de los Estados Unidos (`EPA`, por sus siglas en inglés), con el objetivo de alertar a la población sobre la concentración de contaminantes atmosféricos _(U.S. Environmetal Protection Agency, 2018)_. El `IQA` para el ![PM10] y ![PM2.5] se realiza tomando en cuenta las concentraciones promedio diarias y siguiendo la siguiente ecuación:
