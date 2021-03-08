@@ -1,12 +1,11 @@
-# Creacion de api
+# Creación de api
 
-## Razon
-Como se menciona en el documento la razon de la creacion de una `API` fueron con un fin totalmente didactico, para poder aplicar lo aprendido en las sesiones del modulo de python, ya que no existe una `API` oficial para obtener los datos.
-
+## Razón
+Como se menciona en el documento la razón de la creación de una `API` fue con un fin totalmente didáctico, para poder aplicar lo aprendido en las sesiones del módulo de python, ya que no existe una `API` oficial para obtener los datos.
 ## Dependencias
 Depenciandas de python utilizadas 
 
-> **Nota:** la version de python utilizada para el desarrollo es **3.9**
+> **Nota:** la versión de python utilizada para el desarrollo es **3.9**
 
 - **Flask** como framework web escrito en python para el desarrollo de la api [![flask](https://img.shields.io/badge/flask-v%201.1.2-blue)](https://pypi.org/project/Flask/) 
 - **Mongodb Atlas** para el almacenamiento de datos en cloud
