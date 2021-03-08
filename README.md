@@ -14,7 +14,7 @@
 
 Proyecto BEDU de Calidad del Aire ZMVM en python
 
-En el año 2020, comenzó la emergencia sanitaria mundial debido al virus COVID-19, por lo que varios países adoptaron medidas sanitarias preventivas, entre ellos los cierres de emergencia, donde cesaron gran parte de las actividades económicas. Debido a estas medidas en algunos países como Corea del Sur, China y Brasil, se presentaron cambios locales a corto plazo en la calidad del aire, especialmente en las concentraciones de las partículas suspendidas de 2.5 y 10 𝜇g ( ![PM2.5] y ![PM10] ).
+En el año 2020, comenzó la emergencia sanitaria mundial debido al virus COVID-19, por lo que varios países adoptaron medidas sanitarias preventivas, siendo una de ellas los cierres de emergencia, donde cesaron gran parte de las actividades económicas. Debido a esta medida en algunos países como Corea del Sur, China y Brasil, se presentaron cambios locales a corto plazo en la calidad del aire, especialmente en las concentraciones de las partículas suspendidas de 2.5 y 10 𝜇g ( ![PM2.5] y ![PM10] ).
 
 
 Nuestro objetivo es evaluar los efectos que este aislamiento social provocó en la concentración de estas partículas en la Zona Metropolitana del Valle de México, comparando los datos registrados en 2019 y 2020.
