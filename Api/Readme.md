@@ -3,7 +3,7 @@
 ## Razón
 Como se menciona en el documento la razón de la creación de una `API` fue con un fin totalmente didáctico, para poder aplicar lo aprendido en las sesiones del módulo de python, ya que no existe una `API` oficial para obtener los datos.
 ## Dependencias
-Depenciandas de python utilizadas 
+Dependencias de python utilizadas 
 
 > **Nota:** la versión de python utilizada para el desarrollo es **3.9**
 
