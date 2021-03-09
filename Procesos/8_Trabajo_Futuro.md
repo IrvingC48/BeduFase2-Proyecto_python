@@ -1,8 +1,8 @@
 # Trabajo Futuro 
 
-Teniendo los datos limpios, y habiendo determinado la concentración promedio diaria de ![PM2.5] y ![PM10] para cada zona de activación, para los días entre el 01 de marzo al 31 de mayo de los años 2019 y 2020 para cada estación, se podrá observar mediante gráficas la distribución temporal de estas partículas para un mes anterior y posterior al periodo máximo de control de contingencia para ambos años para todas las zonas.
+Teniendo los datos limpios, y habiendo determinado la concentración promedio diaria de ![PM2.5] y ![PM10] para cada zona de activación, para los días entre el 01 de marzo al 31 de mayo de los años 2019 y 2020 para cada zona de activación, se podrá observar mediante gráficas la distribución temporal y espacial de estas partículas para un mes anterior y posterior al periodo máximo de control de contingencia para ambos años para todas las zonas.
 
-Visualizando los datos, se podrá estimar la contribución de partículas en la atmósfera utilizando la proporción ![PM2.5] / ![PM10], para cada zona de activación. para los días entre el 01 de marzo al 31 de mayo de los años 2019 y 2020.
+Además, se podrá visualizar la clasificación del Índice de calidad del aire, para cada zona de activación para los días entre el 01 de marzo al 31 de mayo de los años 2019 y 2020.
 
 ***
 ## Conclusiones
