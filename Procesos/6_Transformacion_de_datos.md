@@ -54,5 +54,6 @@ Dicha reestructura y aplicación de la metodología, se segmentó por tipo de PM
 - [Transformación de datos PM2.5](https://github.com/IrvingC48/BeduFase2-Proyecto_python/blob/main/Procesos/6_2_Transformacion_PM25.ipynb)
 
 
+
 [PM10]: https://latex.codecogs.com/gif.latex?\bg_white&space;PM_{10}
 [PM2.5]: https://latex.codecogs.com/gif.latex?\bg_white&space;PM_{2.5}
