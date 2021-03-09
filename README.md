@@ -1,4 +1,4 @@
-# Partículas suspendidas en la Zona Metropolitana del Valle de México durante el encierro de emergencia de 2020
+# Partículas suspendidas en la Zona Metropolitana del Valle de México durante el encierro de emergencia por COVID-19
 
 <div style="text-align:center; padding: 10px; margin: 20px;"><img src='img/logo.jpg'></div>
 
